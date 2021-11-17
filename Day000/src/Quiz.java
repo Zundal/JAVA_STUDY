@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class quiz가위바위보 {
+public class Quiz {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		final String gbb[] = new String[3];

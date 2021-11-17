@@ -15,7 +15,7 @@ class Star{
 	
 }
 
-public class Ex01_º°Âï±â1 {
+public class Ex01_star {
 
 	public static void main(String[] args) {
 		
